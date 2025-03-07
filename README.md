@@ -15,22 +15,19 @@
 🎯 Memory Rush has three levels of increasing difficulty, each with different memorization and playtime durations:
 
 🔹 Easy Mode 🟢
-
-    Memorization Time: 2 seconds
-    Solve Time: 45 seconds
-    Ideal for beginners who want to warm up their memory skills!
+     Memorization Time: 2 seconds
+     Solve Time: 45 seconds
+     Ideal for beginners who want to warm up their memory skills!
 
 🔹 Medium Mode 🟡
-
-    Memorization Time: 4 seconds
-    Solve Time: 90 seconds
-    A balanced challenge for those who want to test their recall speed!
+     Memorization Time: 4 seconds
+     Solve Time: 90 seconds
+     A balanced challenge for those who want to test their recall speed!
 
 🔹 Hard Mode 🔴
-
-    Memorization Time: 7 seconds
-    Solve Time: 180 seconds
-    A tough challenge for memory masters! Can you beat the clock?
+     Memorization Time: 7 seconds
+     Solve Time: 180 seconds
+     A tough challenge for memory masters! Can you beat the clock?
 
 
 🌟Features: 
