@@ -1,4 +1,4 @@
-🎮 Memory-Rush-Game
+#🎮 Memory-Rush-Game
 
 🧠 Memory Rush - Test Your Memory Skills! Memory Rush is a fun and challenging memory-based puzzle game that puts your brain to the test! Flip the cards, match the pairs, and race against time to achieve the highest score. With three difficulty levels (Easy, Medium, Hard), the game offers a thrilling challenge for all ages.
 
@@ -15,9 +15,9 @@
 🎯 Memory Rush has three levels of increasing difficulty, each with different memorization and playtime durations:
 
 🔹 Easy Mode 🟢
-     Memorization Time: 2 seconds
-     Solve Time: 45 seconds
-     Ideal for beginners who want to warm up their memory skills!
+     -Memorization Time: 2 seconds
+     -Solve Time: 45 seconds
+     -Ideal for beginners who want to warm up their memory skills!
 
 🔹 Medium Mode 🟡
      Memorization Time: 4 seconds
