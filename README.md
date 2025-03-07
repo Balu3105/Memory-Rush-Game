@@ -33,10 +33,10 @@
 ## ⭐ Features  
 
 ✅ **Three Difficulty Levels** – Easy, Medium, and Hard for all skill levels.  
-✅ **Timed Gameplay** – Solve within the given time limit, and score as much as you can!
-✅ **Memorization Challenge** - Cards are revealed briefly before being hidden.
+✅ **Timed Gameplay** – Solve within the given time limit, and score as much as you can!  
+✅ **Memorization Challenge** – Cards are revealed briefly before being hidden.  
 ✅ **Score System** – Earn points for every correct match.  
-✅ **Smooth Animations** – Flip effects and visual feedback for a better experience.    
-  
+✅ **Smooth Animations** – Flip effects and visual feedback for a better experience.  
+
 
 
