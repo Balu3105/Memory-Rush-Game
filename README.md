@@ -10,7 +10,7 @@
 2️⃣ Once the time is up, all cards flip back down.  
 3️⃣ Click on two cards to reveal them.  
 4️⃣ If the cards match, they remain open. If not, they flip back.  
-5️⃣ Match all pairs within the time limit to win!  
+5️⃣ Match as many pairs as you can, and score accordingly!  
 
 ---
 
