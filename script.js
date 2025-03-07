@@ -44,7 +44,7 @@ function startGame(difficulty) {
             timeLeft = 180;
             gameBoard.style.gridTemplateColumns = "repeat(8, minmax(0, 1fr))";
             cards = generateCards(32);
-            revealTime = 70000;
+            revealTime = 7000;
             break;
     }
 
